@@ -3,4 +3,4 @@ Git is free software.
 Git has a mutable index called stage.
 Git tracks changes.
 My boss is stubid.
-Creadting a new branch is quick & simple.
+Creadting a new branch is quick AND simple.
