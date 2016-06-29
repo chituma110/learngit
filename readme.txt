@@ -5,3 +5,4 @@ Git tracks changes.
 My boss is stubid.
 Creadting a new branch is quick AND simple.
 Git can merge branches.
+learning BUg Dev.
